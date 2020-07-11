@@ -13,7 +13,10 @@
 2.3 Pandas <br />
 2.4 Matplotlib <br />
 2.5 Sklearn <br />
-- 第3章 Python可视化分析
+- <B>第3章 Python可视化分析</B> <br />
+
+
+<img src="https://img-blog.csdn.net/20180611095441156" height="60%" width="60%" />
 
 
 参考文章：<br />
