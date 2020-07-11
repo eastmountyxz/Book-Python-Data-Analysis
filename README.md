@@ -16,8 +16,9 @@
 - <B>第3章 Python可视化分析</B> <br />
 
 
-<img src="https://img-blog.csdn.net/20180611095441156" height="60%" width="60%" />
-
+<div align="center">
+  <img src="https://img-blog.csdn.net/20180611095441156" height="60%" width="60%" />
+</div>
 
 参考文章：<br />
 https://blog.csdn.net/Eastmount/article/details/80647813
