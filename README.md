@@ -8,11 +8,11 @@
 1.3 Anaconda开发环境 <br />
 1.4 常用数据集 <br />
 - <B>第2章 Python数据分析常用库</B> <br />
-2.1 常用库
-2.2 NumPY
-2.3 Pandas
-2.4 Matplotlib
-2.5 Sklearn
+2.1 常用库 <br />
+2.2 NumPY <br />
+2.3 Pandas <br />
+2.4 Matplotlib <br />
+2.5 Sklearn <br />
 - 第3章 Python可视化分析
 
 
