@@ -17,6 +17,9 @@
 2.4 Matplotlib <br />
 2.5 Sklearn <br />
 - <B>第3章 Python可视化分析</B> <br />
+3.1 Matplotlib可视化分析 <br />
+3.2 Pandas读取文件可视化分析 <br />
+3.3 Echarts可视化技术初探 <br />
 
 
 <div align="center">
