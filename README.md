@@ -20,6 +20,7 @@
 3.1 Matplotlib可视化分析 <br />
 3.2 Pandas读取文件可视化分析 <br />
 3.3 Echarts可视化技术初探 <br />
+- <B>第4章 Python回归分析</B> <br />
 
 
 <div align="center">
