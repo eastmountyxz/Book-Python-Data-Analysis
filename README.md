@@ -3,6 +3,8 @@
 
 出版社：北京航天航空大学出版社 <br />
 作者：杨秀璋 <br />
+博客地址：https://blog.csdn.net/Eastmount/article/details/80647813 <br />
+
 
 目录如下：
 - <B>第1章 网络数据分析概述</B> <br />
@@ -27,5 +29,3 @@
   <img src="https://img-blog.csdn.net/20180611095441156" height="60%" width="60%" />
 </div>
 
-参考文章：<br />
-https://blog.csdn.net/Eastmount/article/details/80647813
